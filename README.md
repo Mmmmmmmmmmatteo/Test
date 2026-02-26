@@ -3,13 +3,13 @@
 Welcome to my central repository. This space is a public learning log tracking my 16-week intensive roadmap to master Artificial Intelligence. My ultimate goal is to evolve from running basic local scripts to building robust "Production AI" and autonomous "AI Agents".
 
 ## 📚 Skills Acquired (Foundation)
-**Core Concepts:** Strong understanding of what AI is, along with its current limitations.
-**Programming:** Python syntax, logic, and basic data manipulation.
-**Version Control:** Managing projects through Git and GitHub.
+***Core Concepts:** Strong understanding of what AI is, along with its current limitations.
+***Programming:** Python syntax, logic, and basic data manipulation.
+***Version Control:** Managing projects through Git and GitHub.
 
 ## ⚙️ Current Focus (In Progress)
-**Data Manipulation:** Learning to extract, clean, and transform complex datasets using Pandas.
-**Mathematical Intuition:** Building a solid visual understanding of vectors, matrices, and gradients (Linear Algebra & Calculus) to properly debug deep models later.
+***Data Manipulation:** Learning to extract, clean, and transform complex datasets using Pandas.
+***Mathematical Intuition:** Building a solid visual understanding of vectors, matrices, and gradients (Linear Algebra & Calculus) to properly debug deep models later.
 
 ## 🚀 Roadmap: Skills to be Implemented
 As I progress through my learning path, I will build and upload projects focusing on these advanced areas:
